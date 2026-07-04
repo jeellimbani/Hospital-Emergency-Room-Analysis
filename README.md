@@ -31,7 +31,7 @@ This project analyzes Hospital Emergency Room data using Microsoft Excel. The da
 
 ## 📂 Project Files
 
-- 
+- hospital_Logo.png
 - Hospital_Dashboard.png
 - Hospital Emergency Room Data.csv
 - README.md
